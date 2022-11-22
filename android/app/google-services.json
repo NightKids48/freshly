@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1056068803951",
+    "project_id": "freshly-project",
+    "storage_bucket": "freshly-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056068803951:android:91b9c9ce863ac80696dc9a",
+        "android_client_info": {
+          "package_name": "com.example.freshly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056068803951-0ldao2j40e56590vlt7emirla3s8abg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freshly",
+            "certificate_hash": "c68b23e51f2e3c6b5b4ff1180626d8d7f0cf4448"
+          }
+        },
+        {
+          "client_id": "1056068803951-vulstsq25052ft9u5hhfnteuj114i3e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEj8dEZfbZ4t-KR12B75AZumketeJV_mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056068803951-vulstsq25052ft9u5hhfnteuj114i3e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
